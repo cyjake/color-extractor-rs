@@ -1,0 +1,7 @@
+[package]
+name = "color-extractor"
+version = "0.1.0"
+authors = ["Chen Yangjian <jakeplus@gmail.com>"]
+
+[dependencies]
+image = "*"
